@@ -23,7 +23,7 @@ db.books.insertMany([
     "genre": "Historical Fiction",
     "published_year": 2006,
     "price": 2050.00,
-    "in_stock": true,
+    "in_stock": false,
     "pages": 433,
     "publisher": "Alfred A. Knopf"
   },
@@ -63,7 +63,7 @@ db.books.insertMany([
     "genre": "Historical Fiction",
     "published_year": 2016,
     "price": 2100.00,
-    "in_stock": true,
+    "in_stock": false,
     "pages": 320,
     "publisher": "Alfred A. Knopf"
   },
@@ -83,7 +83,7 @@ db.books.insertMany([
     "genre": "Contemporary Fiction",
     "published_year": 2013,
     "price": 2000.00,
-    "in_stock": true,
+    "in_stock": false,
     "pages": 477,
     "publisher": "Alfred A. Knopf"
   },
